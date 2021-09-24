@@ -1,0 +1,20 @@
+name: fin
+description: >-
+  The fin block is a balenaBlock that provides flashing utilities, status
+  tagging, sleep control and firmata control functionality of the balenaFin.
+fleetcta: Control the balenaFin
+version: 3.2.2
+type: sw.application
+assets:
+  repository:
+    type: blob.asset
+    data:
+      url: 'https://github.com/balenablocks/fin'
+  logo:
+    type: blob.asset
+    data:
+      url: 'https://raw.githubusercontent.com/balenablocks/fin/main/images/icon.png'
+data:
+  defaultDeviceType: fincm3
+  supportedDeviceTypes:
+    - fincm3
