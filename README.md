@@ -1,5 +1,17 @@
-# balenaBlocks
+![logo](https://raw.githubusercontent.com/balenablocks/blocks/master/logo.png)
+# Blocks
+Reducing the friction for IOT application developers by providing drop-in chunks of functionality.
 
-balenaBlocks are a type of "app enablement". They are docker images which you can drop into your project to provide some functionality you need. For example, if you have a webApp and you wish to display it on a connected display, you can add the [browser block](https://github.com/balenablocks/browser) to your docker compose and hey presto!
+## Highlights
+* Pre-built containers: Just drop them into your IOT projects
+* Provide functionality: Need a containerised browser? Just drop in the [browser block](https://github.com/balenablocks/browser)!
+* Intelligent and opinionated: Blocks discover each other and work together automatically.
 
-You can find a more detailed explaination of blocks here: https://www.balena.io/blog/introducing-balenablocks-jumpstart-your-iot-app-development/
+## Motivation
+Blocks are a concept that came out of the [labs](https://github.com/balenalabs) at balena.
+
+![blocks factory](https://raw.githubusercontent.com/balenablocks/blocks/master/docs/images/factory.png)
+
+Balena's mission is to reduce friction for fleet owners and unlock the power of physical computing. Blocks contribute to this by removing some friction for developers of IOT applications by providing pre-built chunks of functionality. The enable application developers to focus only on the code they need to write, and rely on the blocks to provide everything else.
+
+
