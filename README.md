@@ -1,4 +1,4 @@
-<img src="logo.png" alt="logo" width="600"/>
+![banner](https://raw.githubusercontent.com/balenablocks/blocks/master/docs/images/banner.png)
 
 Reducing the friction for IOT application developers by providing drop-in chunks of functionality.
 
