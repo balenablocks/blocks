@@ -1,5 +1,5 @@
-![logo](https://raw.githubusercontent.com/balenablocks/blocks/master/logo.png)
-# Blocks
+![banner](https://raw.githubusercontent.com/balenablocks/blocks/master/docs/images/banner.png)
+
 Reducing the friction for IOT application developers by providing drop-in chunks of functionality.
 
 ## Highlights
