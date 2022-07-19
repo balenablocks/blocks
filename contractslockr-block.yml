@@ -1,0 +1,20 @@
+name: lockr
+type: sw.block
+version: 1.0.0
+description: >-
+  Apply application update locks by matching a URL response to a regular
+  expression.
+assets:
+  repository:
+    type: blob.asset
+    data:
+      url: 'https://github.com/balenablocks/lockr-block'
+data:
+  defaultDeviceType: intel-nuc
+  supportedDeviceTypes:
+    - raspberrypi3
+    - raspberrypi3-64
+    - raspberrypi4-64
+    - genericx86-64-ext
+    - intel-nuc
+    - fincm3
