@@ -1,0 +1,955 @@
+- commits:
+    - subject: Switch from balenaCI to flowzone
+      hash: f0c6f1cb24f69372d2b5f694b099159f040868ac
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+  version: 0.0.63
+  title: ""
+  date: 2022-10-10T16:15:23.034Z
+- version: 0.0.62
+  date: 2022-09-30T04:12:48Z
+  commits:
+    - hash: 41d75fc400b453862c52b8c909d1e42c49a34576
+      author: Balena CI
+      footers:
+        change-type: patch
+      subject: autohupr-5
+      body: null
+- version: 0.0.61
+- date: 2022-09-29T17:55:26Z
+- commits:
+    - hash: fce4ff136e0182f92c32ba5497a77b05b7810a20
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: cert-manager-24
+- commits:
+    - ? body
+- version: 0.0.60
+- date: 2022-09-22T19:56:11Z
+- commits:
+    - hash: ba23b40f4afe24da198a5b17bc09457ecaec022b
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: cert-manager-23
+- commits:
+    - ? body
+- version: 0.0.59
+- date: 2022-09-22T19:44:22Z
+- commits:
+    - hash: c98a9eb6b650f4926e0c2f9742e2d9daa7fa78b3
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: cert-manager-23
+- commits:
+    - ? body
+- version: 0.0.58
+- date: 2022-09-22T18:58:50Z
+- commits:
+    - hash: 6eadef438668915b764323d2918118186af20adf
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: ca-private-8
+- commits:
+    - ? body
+- version: 0.0.57
+- date: 2022-09-22T18:49:14Z
+- commits:
+    - hash: 8ffd59859edf944b9062699ccc3d7fe8221939bd
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: fin-block-64
+- commits:
+    - ? body
+- commits:
+    - hash: e3c3ff9f36519897b1ca0a7415785be3a89c3173
+- commits:
+    - author: Phil Wilson
+- commits:
+    - subject: latest
+- commits:
+    - ? body
+- version: 0.0.56
+- date: 2022-08-22T16:53:45Z
+- commits:
+    - hash: 158773ee5632213b18bcec467b7223fd30005519
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: lockr-block-7
+- commits:
+    - ? body
+- version: 0.0.55
+- date: 2022-08-10T12:52:29Z
+- commits:
+    - hash: f4d1d34296fc63195a50fffa24168187e0fee86a
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: lockr-block-7
+- commits:
+    - ? body
+- version: 0.0.54
+- date: 2022-08-08T17:54:59Z
+- commits:
+    - hash: 0ae32fd384527f2e895c6c80800edfbf39fa2067
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: lockr-block-6
+- commits:
+    - ? body
+- version: 0.0.53
+- date: 2022-08-05T00:41:35Z
+- commits:
+    - hash: 301ddc393dd42618c949e938c5b65d54ee8e51d2
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: cert-manager-22
+- commits:
+    - ? body
+- version: 0.0.52
+- date: 2022-08-05T00:29:30Z
+- commits:
+    - hash: 0174d3c8b2747d080e7635d31ab851556db62608
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: cert-manager-21
+- commits:
+    - ? body
+- version: 0.0.51
+- date: 2022-08-04T23:58:20Z
+- commits:
+    - hash: 27ddce39a7af527ed9beb47e59f4dedea5a421c1
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: cert-manager-20
+- commits:
+    - ? body
+- version: 0.0.50
+- date: 2022-08-04T23:38:33Z
+- commits:
+    - hash: e0080b9f544b8acc28d23d35a3169d6bc14dee3d
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: cert-manager-20
+- commits:
+    - ? body
+- version: 0.0.49
+- date: 2022-08-03T18:51:28Z
+- commits:
+    - hash: a302cfa23a9f974c8f5626fe9cb24f675a6aab60
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: browser-132
+- commits:
+    - ? body
+- commits:
+    - hash: cf564a83656087f5f59231b1371b4e1e616721bf
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: browser-132
+- commits:
+    - ? body
+- version: 0.0.48
+- date: 2022-08-03T18:21:38Z
+- commits:
+    - hash: 77862b6ae04534f7907c940cbd3ed067537da231
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: browser-131
+- commits:
+    - ? body
+- version: 0.0.47
+- date: 2022-08-01T22:35:24Z
+- commits:
+    - hash: 8d3c7d50c161585fcccca198a00ce31f684c1409
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: cloud-config-19
+- commits:
+    - ? body
+- version: 0.0.46
+- date: 2022-08-01T22:27:51Z
+- commits:
+    - hash: 8e705c17d98ef6c3b874cc690f969cb62be04b6d
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: cloud-config-19
+- commits:
+    - ? body
+- commits:
+    - hash: cbc9819c2c54237f666cfbe88f9f60be2ebf5dc9
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: cloud-config-19
+- commits:
+    - ? body
+- version: 0.0.45
+- date: 2022-07-21T09:10:45Z
+- commits:
+    - hash: b1f3c0c44c530e2c1e24a34def94ef5d83b5bd0c
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: wifi-connect-21
+- commits:
+    - ? body
+- version: 0.0.44
+- date: 2022-07-19T20:57:30Z
+- commits:
+    - hash: 66240e4dd6bdbb835bf04e37bb36ca0c6c1ae9b4
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: lockr-block-4
+- commits:
+    - ? body
+- version: 0.0.43
+- date: 2022-06-13T10:28:17Z
+- commits:
+    - hash: 4757d95428464489908b5f1e01d9ccba828269bc
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: balena-node-red-43
+- commits:
+    - ? body
+- version: 0.0.42
+- date: 2022-06-08T13:39:36Z
+- commits:
+    - hash: 01713237c110f84411b5b9bd9ad9b0993034d3e0
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: autohupr-3
+- commits:
+    - ? body
+- version: 0.0.41
+- date: 2022-06-07T20:39:45Z
+- commits:
+    - hash: 395c5c6385fd7a05a9e05480059e15b6e95db861
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: autohupr-3
+- commits:
+    - ? body
+- version: 0.0.40
+- date: 2022-06-07T19:46:38Z
+- commits:
+    - hash: b39fb1b80b512318a64b93a2a50636f1220a618b
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: autohupr-2
+- commits:
+    - ? body
+- commits:
+    - hash: 9cbb5a277462b67c6640a0982f9664c0ee9ddfc6
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: autohupr-1
+- commits:
+    - ? body
+- version: 0.0.39
+- date: 2022-05-19T14:21:36Z
+- commits:
+    - hash: fc0af73136fb7334519cc96f834d5569c29d92ab
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: browser-127
+- commits:
+    - ? body
+- version: 0.0.38
+- date: 2022-05-19T11:03:59Z
+- commits:
+    - hash: 295f2a943a96fa5cce75309ad32ff5b8912e1aa0
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: browser-127
+- commits:
+    - ? body
+- version: 0.0.37
+- date: 2022-05-17T13:15:28Z
+- commits:
+    - hash: 8d12c718eb0830220e076f31cfd7f24e6f2082a2
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: wifi-connect-21
+- commits:
+    - ? body
+- version: 0.0.36
+- date: 2022-05-16T18:51:33Z
+- commits:
+    - hash: b305273602eb9cc7e17c9129f3f91c6e28e385e5
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: wifi-connect-21
+- commits:
+    - ? body
+- version: 0.0.35
+- date: 2022-05-16T18:24:03Z
+- commits:
+    - hash: f2f273ebd92f12efdb6344ca14786a48d91f7eaa
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: wifi-connect-21
+- commits:
+    - ? body
+- version: 0.0.34
+- date: 2022-05-13T09:02:21Z
+- commits:
+    - hash: 483a38bbbf87898202a5d4ddf4b0038ae6dc2918
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: wifi-connect-21
+- commits:
+    - ? body
+- version: 0.0.33
+- date: 2022-05-13T08:56:19Z
+- commits:
+    - hash: 5b1a651a02ff5fb2601c8ba2f9dc581bc9a33150
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: wifi-connect-21
+- commits:
+    - ? body
+- version: 0.0.32
+- date: 2022-05-13T08:33:13Z
+- commits:
+    - hash: ab7078730ec3d916e0dc7e4efdf80febe39f8065
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: wifi-connect-21
+- commits:
+    - ? body
+- version: 0.0.31
+- date: 2022-05-12T16:36:46Z
+- commits:
+    - hash: 3c54ab7f05620e03b593f9f1c3a7e83ad2c2bdc1
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: wifi-connect-19
+- commits:
+    - ? body
+- version: 0.0.30
+- date: 2022-05-12T15:33:40Z
+- commits:
+    - hash: ee8af3c54ddbdf0ee4ba2ad01db75c5b9cf39736
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: wifi-connect-19
+- commits:
+    - ? body
+- version: 0.0.29
+- date: 2022-05-12T15:24:09Z
+- commits:
+    - hash: 850439b6b3875f22776c9930881cdc2fc1303fe0
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: wifi-connect-20
+- commits:
+    - ? body
+- version: 0.0.28
+- date: 2022-05-12T11:41:35Z
+- commits:
+    - hash: 9fa58593e0b57a8a41a9f7d855e4c375fdb82830
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: wifi-connect-20
+- commits:
+    - ? body
+- version: 0.0.27
+- date: 2022-05-11T18:12:28Z
+- commits:
+    - hash: c51697d315c68e334e0e3af7f87b65b2e77b60d3
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: xserver-17
+- commits:
+    - ? body
+- version: 0.0.26
+- date: 2022-05-11T06:55:04Z
+- commits:
+    - hash: ff047d1e6293b836dc721ba127d8548d5d94148b
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: wifi-connect-19
+- commits:
+    - ? body
+- version: 0.0.25
+- date: 2022-05-06T06:12:05Z
+- commits:
+    - hash: f67280015718cee55d65397a5e1fa6986cc30929
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-33
+- commits:
+    - ? body
+- version: 0.0.24
+- date: 2022-05-06T05:47:46Z
+- commits:
+    - hash: f27d65e4305bcc4f17da42f081a365dea1e35265
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-32
+- commits:
+    - ? body
+- version: 0.0.23
+- date: 2022-05-06T04:56:51Z
+- commits:
+    - hash: 34bba5b3b4a2caafc1aa7e41284a96221fbf92f3
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-31
+- commits:
+    - ? body
+- version: 0.0.22
+- date: 2022-05-06T04:26:34Z
+- commits:
+    - hash: 56e6399d5f3317eb57392583923ef70b486d413b
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-29
+- commits:
+    - ? body
+- commits:
+    - hash: 07f5bce75782c986a492cd559f8769027bc947ab
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-29
+- commits:
+    - ? body
+- version: 0.0.21
+- date: 2022-05-06T03:43:49Z
+- commits:
+    - hash: 8f97a17a7662b91b664d96d601a9568f147e3668
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-30
+- commits:
+    - ? body
+- version: 0.0.20
+- date: 2022-05-06T03:23:09Z
+- commits:
+    - hash: 8087550edd7a5ca9d6c932c2167b0842dfe1386d
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-29
+- commits:
+    - ? body
+- version: 0.0.19
+- date: 2022-05-06T03:13:36Z
+- commits:
+    - hash: 5bc8e20e71ee530223fe45fd97e112cf3c9d8d56
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-29
+- commits:
+    - ? body
+- version: 0.0.18
+- date: 2022-05-06T02:16:42Z
+- commits:
+    - hash: 0df5681f546e530ce1c1a6f9229cd822342ad227
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-28
+- commits:
+    - ? body
+- version: 0.0.17
+- date: 2022-05-06T01:53:57Z
+- commits:
+    - hash: 94ae64aef90c0d330b5d9f36f97a512850413fe0
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-27
+- commits:
+    - ? body
+- version: 0.0.16
+- date: 2022-05-06T01:39:37Z
+- commits:
+    - hash: 5662234ee04a5f2421e7db9efc8a15edf7d8d8a3
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-26
+- commits:
+    - ? body
+- version: 0.0.15
+- date: 2022-05-06T01:24:51Z
+- commits:
+    - hash: f022a5f61c924aae5e04560309ccb031a9096e84
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-24
+- commits:
+    - ? body
+- version: 0.0.14
+- date: 2022-05-05T18:08:57Z
+- commits:
+    - hash: c9bafb9a8064dd343cc059a9dfa21590611babb2
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-23
+- commits:
+    - ? body
+- version: 0.0.13
+- date: 2022-05-05T16:46:44Z
+- commits:
+    - hash: 1d620dfbc999eefb24ce478d3dc4f7db332b289d
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-21
+- commits:
+    - ? body
+- version: 0.0.12
+- date: 2022-05-04T12:56:00Z
+- commits:
+    - hash: 1208a600ab5970e7f03798d59e03820831c9f524
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-22
+- commits:
+    - ? body
+- version: 0.0.11
+- date: 2022-05-04T12:26:23Z
+- commits:
+    - hash: c3fb36722f496dd16b57f8dcd6187fde22548714
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-22
+- commits:
+    - ? body
+- commits:
+    - hash: c21a5618e880054048b59d96a5f1cb10751be46d
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-22
+- commits:
+    - ? body
+- version: 0.0.10
+- date: 2022-05-04T11:02:08Z
+- commits:
+    - hash: aba204d98db30c8d576c8300d8c7c52b38bb5ae1
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-21
+- commits:
+    - ? body
+- version: 0.0.9
+- date: 2022-05-04T10:15:08Z
+- commits:
+    - hash: 24df660b3bba377340ef23434be30aee7cdbc0f5
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-21
+- commits:
+    - ? body
+- version: 0.0.8
+- date: 2022-05-04T10:05:23Z
+- commits:
+    - hash: b09c31601915b9e49d50877ad2bafc860c433b3f
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-21
+- commits:
+    - ? body
+- version: 0.0.7
+- date: 2022-05-04T03:38:56Z
+- commits:
+    - hash: 7efb5093baae50591f3511b37fdcab643fe82abb
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-21
+- commits:
+    - ? body
+- commits:
+    - hash: 224e984473bcbad0ed6434e01a69918299694667
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-21
+- commits:
+    - ? body
+- version: 0.0.6
+- date: 2022-05-03T06:52:20Z
+- commits:
+    - hash: 59b5fdef97e5d2514cbf9ec73687d833f2eaafeb
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: logwatcher-19
+- commits:
+    - ? body
+- version: 0.0.5
+- date: 2022-04-26T22:21:50Z
+- commits:
+    - hash: 37b378b68e4b49d4bdfd2133862da59a9190e546
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: xserver-15
+- commits:
+    - ? body
+- version: 0.0.4
+- date: 2022-04-14T19:14:34Z
+- commits:
+    - hash: d7fc50bdb64dff08125a9df339f652c057b809e6
+- commits:
+    - author: Balena CI
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - subject: xserver-10
+- commits:
+    - ? body
+- version: 0.0.3
+- date: 2022-04-12T17:28:08Z
+- commits:
+    - hash: c7702fe476f1f2aa7ff39a4c9924814324acf9a3
+- commits:
+    - author: Phil Wilson
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Phil Wilson <phil@balena.io>
+- commits:
+    - subject: Adding arch doc
+- commits:
+    - ? body
+- commits:
+    - hash: c27ebeed0197322be4306d9d6b7a86c1c464f0c7
+- commits:
+    - author: Phil Wilson
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Phil Wilson <phil@balena.io>
+- commits:
+    - subject: crop logo
+- commits:
+    - ? body
+- commits:
+    - hash: e8de1ea6a4c5918aee6dd3a1dbf63ef01c076aca
+- commits:
+    - author: Phil Wilson
+- commits:
+    - subject: test larger logo
+- commits:
+    - ? body
+- commits:
+    - hash: 410c690774775d6cdb10c855888e060af0bfdf28
+- commits:
+    - author: Phil Wilson
+- commits:
+    - subject: Merge branch 'master' into docs-update
+- commits:
+    - ? body
+- commits:
+    - hash: 27e3d6880a0477bac4e478370ab0661fe9f59556
+- commits:
+    - author: Phil Wilson
+- commits:
+    - subject: banner
+- commits:
+    - ? body
+- commits:
+    - hash: dafc501d3fe5dab2c364a9f0c714a9b04a9fd5ac
+- commits:
+    - author: Phil Wilson
+- commits:
+    - subject: Merge branch 'docs-update' of https://github.com/balenablocks/blocks
+        into docs-update
+- commits:
+    - ? body
+- version: 0.0.2
+- date: 2022-04-08T13:36:46Z
+- commits:
+    - hash: df2f8e802cd3f30aa92cd9bad4f9648a989204d1
+- commits:
+    - author: Phil Wilson
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Phil Wilson <phil@balena.io>
+- commits:
+    - subject: initial docs commit to see landr
+- commits:
+    - ? body
+- commits:
+    - hash: e125441e47ae019bb7b10b92fd5f16820f667458
+- commits:
+    - author: Phil Wilson
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Phil Wilson <phil@balena.io>
+- commits:
+    - subject: fix highlights
+- commits:
+    - ? body
+- commits:
+    - hash: 289c21a504b0d8d04e869dee67af8f09a3a0eae3
+- commits:
+    - author: Phil Wilson
+- commits:
+    - footers:
+        change-type: patch
+- commits:
+    - footers:
+        signed-off-by: Phil Wilson <phil@balena.io>
+- commits:
+    - subject: fix versionbot
+- commits:
+    - ? body
