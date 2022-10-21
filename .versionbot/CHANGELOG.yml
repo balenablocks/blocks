@@ -1,4 +1,15 @@
 - commits:
+    - subject: xserver-20
+      hash: 57e765f167656510ef5e9475005b644049a54718
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Balena CI
+  version: 0.0.64
+  title: ""
+  date: 2022-10-21T19:24:03.002Z
+- commits:
     - subject: Switch from balenaCI to flowzone
       hash: f0c6f1cb24f69372d2b5f694b099159f040868ac
       body: ""
@@ -30,7 +41,7 @@
 - commits:
     - subject: cert-manager-24
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.60
 - date: 2022-09-22T19:56:11Z
 - commits:
@@ -43,7 +54,7 @@
 - commits:
     - subject: cert-manager-23
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.59
 - date: 2022-09-22T19:44:22Z
 - commits:
@@ -56,7 +67,7 @@
 - commits:
     - subject: cert-manager-23
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.58
 - date: 2022-09-22T18:58:50Z
 - commits:
@@ -69,7 +80,7 @@
 - commits:
     - subject: ca-private-8
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.57
 - date: 2022-09-22T18:49:14Z
 - commits:
@@ -82,7 +93,7 @@
 - commits:
     - subject: fin-block-64
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: e3c3ff9f36519897b1ca0a7415785be3a89c3173
 - commits:
@@ -90,7 +101,7 @@
 - commits:
     - subject: latest
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.56
 - date: 2022-08-22T16:53:45Z
 - commits:
@@ -103,7 +114,7 @@
 - commits:
     - subject: lockr-block-7
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.55
 - date: 2022-08-10T12:52:29Z
 - commits:
@@ -116,7 +127,7 @@
 - commits:
     - subject: lockr-block-7
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.54
 - date: 2022-08-08T17:54:59Z
 - commits:
@@ -129,7 +140,7 @@
 - commits:
     - subject: lockr-block-6
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.53
 - date: 2022-08-05T00:41:35Z
 - commits:
@@ -142,7 +153,7 @@
 - commits:
     - subject: cert-manager-22
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.52
 - date: 2022-08-05T00:29:30Z
 - commits:
@@ -155,7 +166,7 @@
 - commits:
     - subject: cert-manager-21
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.51
 - date: 2022-08-04T23:58:20Z
 - commits:
@@ -168,7 +179,7 @@
 - commits:
     - subject: cert-manager-20
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.50
 - date: 2022-08-04T23:38:33Z
 - commits:
@@ -181,7 +192,7 @@
 - commits:
     - subject: cert-manager-20
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.49
 - date: 2022-08-03T18:51:28Z
 - commits:
@@ -194,7 +205,7 @@
 - commits:
     - subject: browser-132
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: cf564a83656087f5f59231b1371b4e1e616721bf
 - commits:
@@ -205,7 +216,7 @@
 - commits:
     - subject: browser-132
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.48
 - date: 2022-08-03T18:21:38Z
 - commits:
@@ -218,7 +229,7 @@
 - commits:
     - subject: browser-131
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.47
 - date: 2022-08-01T22:35:24Z
 - commits:
@@ -231,7 +242,7 @@
 - commits:
     - subject: cloud-config-19
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.46
 - date: 2022-08-01T22:27:51Z
 - commits:
@@ -244,7 +255,7 @@
 - commits:
     - subject: cloud-config-19
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: cbc9819c2c54237f666cfbe88f9f60be2ebf5dc9
 - commits:
@@ -255,7 +266,7 @@
 - commits:
     - subject: cloud-config-19
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.45
 - date: 2022-07-21T09:10:45Z
 - commits:
@@ -268,7 +279,7 @@
 - commits:
     - subject: wifi-connect-21
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.44
 - date: 2022-07-19T20:57:30Z
 - commits:
@@ -281,7 +292,7 @@
 - commits:
     - subject: lockr-block-4
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.43
 - date: 2022-06-13T10:28:17Z
 - commits:
@@ -294,7 +305,7 @@
 - commits:
     - subject: balena-node-red-43
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.42
 - date: 2022-06-08T13:39:36Z
 - commits:
@@ -307,7 +318,7 @@
 - commits:
     - subject: autohupr-3
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.41
 - date: 2022-06-07T20:39:45Z
 - commits:
@@ -320,7 +331,7 @@
 - commits:
     - subject: autohupr-3
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.40
 - date: 2022-06-07T19:46:38Z
 - commits:
@@ -333,7 +344,7 @@
 - commits:
     - subject: autohupr-2
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: 9cbb5a277462b67c6640a0982f9664c0ee9ddfc6
 - commits:
@@ -344,7 +355,7 @@
 - commits:
     - subject: autohupr-1
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.39
 - date: 2022-05-19T14:21:36Z
 - commits:
@@ -357,7 +368,7 @@
 - commits:
     - subject: browser-127
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.38
 - date: 2022-05-19T11:03:59Z
 - commits:
@@ -370,7 +381,7 @@
 - commits:
     - subject: browser-127
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.37
 - date: 2022-05-17T13:15:28Z
 - commits:
@@ -383,7 +394,7 @@
 - commits:
     - subject: wifi-connect-21
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.36
 - date: 2022-05-16T18:51:33Z
 - commits:
@@ -396,7 +407,7 @@
 - commits:
     - subject: wifi-connect-21
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.35
 - date: 2022-05-16T18:24:03Z
 - commits:
@@ -409,7 +420,7 @@
 - commits:
     - subject: wifi-connect-21
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.34
 - date: 2022-05-13T09:02:21Z
 - commits:
@@ -422,7 +433,7 @@
 - commits:
     - subject: wifi-connect-21
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.33
 - date: 2022-05-13T08:56:19Z
 - commits:
@@ -435,7 +446,7 @@
 - commits:
     - subject: wifi-connect-21
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.32
 - date: 2022-05-13T08:33:13Z
 - commits:
@@ -448,7 +459,7 @@
 - commits:
     - subject: wifi-connect-21
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.31
 - date: 2022-05-12T16:36:46Z
 - commits:
@@ -461,7 +472,7 @@
 - commits:
     - subject: wifi-connect-19
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.30
 - date: 2022-05-12T15:33:40Z
 - commits:
@@ -474,7 +485,7 @@
 - commits:
     - subject: wifi-connect-19
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.29
 - date: 2022-05-12T15:24:09Z
 - commits:
@@ -487,7 +498,7 @@
 - commits:
     - subject: wifi-connect-20
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.28
 - date: 2022-05-12T11:41:35Z
 - commits:
@@ -500,7 +511,7 @@
 - commits:
     - subject: wifi-connect-20
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.27
 - date: 2022-05-11T18:12:28Z
 - commits:
@@ -513,7 +524,7 @@
 - commits:
     - subject: xserver-17
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.26
 - date: 2022-05-11T06:55:04Z
 - commits:
@@ -526,7 +537,7 @@
 - commits:
     - subject: wifi-connect-19
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.25
 - date: 2022-05-06T06:12:05Z
 - commits:
@@ -539,7 +550,7 @@
 - commits:
     - subject: logwatcher-33
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.24
 - date: 2022-05-06T05:47:46Z
 - commits:
@@ -552,7 +563,7 @@
 - commits:
     - subject: logwatcher-32
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.23
 - date: 2022-05-06T04:56:51Z
 - commits:
@@ -565,7 +576,7 @@
 - commits:
     - subject: logwatcher-31
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.22
 - date: 2022-05-06T04:26:34Z
 - commits:
@@ -578,7 +589,7 @@
 - commits:
     - subject: logwatcher-29
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: 07f5bce75782c986a492cd559f8769027bc947ab
 - commits:
@@ -589,7 +600,7 @@
 - commits:
     - subject: logwatcher-29
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.21
 - date: 2022-05-06T03:43:49Z
 - commits:
@@ -602,7 +613,7 @@
 - commits:
     - subject: logwatcher-30
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.20
 - date: 2022-05-06T03:23:09Z
 - commits:
@@ -615,7 +626,7 @@
 - commits:
     - subject: logwatcher-29
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.19
 - date: 2022-05-06T03:13:36Z
 - commits:
@@ -628,7 +639,7 @@
 - commits:
     - subject: logwatcher-29
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.18
 - date: 2022-05-06T02:16:42Z
 - commits:
@@ -641,7 +652,7 @@
 - commits:
     - subject: logwatcher-28
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.17
 - date: 2022-05-06T01:53:57Z
 - commits:
@@ -654,7 +665,7 @@
 - commits:
     - subject: logwatcher-27
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.16
 - date: 2022-05-06T01:39:37Z
 - commits:
@@ -667,7 +678,7 @@
 - commits:
     - subject: logwatcher-26
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.15
 - date: 2022-05-06T01:24:51Z
 - commits:
@@ -680,7 +691,7 @@
 - commits:
     - subject: logwatcher-24
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.14
 - date: 2022-05-05T18:08:57Z
 - commits:
@@ -693,7 +704,7 @@
 - commits:
     - subject: logwatcher-23
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.13
 - date: 2022-05-05T16:46:44Z
 - commits:
@@ -706,7 +717,7 @@
 - commits:
     - subject: logwatcher-21
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.12
 - date: 2022-05-04T12:56:00Z
 - commits:
@@ -719,7 +730,7 @@
 - commits:
     - subject: logwatcher-22
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.11
 - date: 2022-05-04T12:26:23Z
 - commits:
@@ -732,7 +743,7 @@
 - commits:
     - subject: logwatcher-22
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: c21a5618e880054048b59d96a5f1cb10751be46d
 - commits:
@@ -743,7 +754,7 @@
 - commits:
     - subject: logwatcher-22
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.10
 - date: 2022-05-04T11:02:08Z
 - commits:
@@ -756,7 +767,7 @@
 - commits:
     - subject: logwatcher-21
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.9
 - date: 2022-05-04T10:15:08Z
 - commits:
@@ -769,7 +780,7 @@
 - commits:
     - subject: logwatcher-21
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.8
 - date: 2022-05-04T10:05:23Z
 - commits:
@@ -782,7 +793,7 @@
 - commits:
     - subject: logwatcher-21
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.7
 - date: 2022-05-04T03:38:56Z
 - commits:
@@ -795,7 +806,7 @@
 - commits:
     - subject: logwatcher-21
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: 224e984473bcbad0ed6434e01a69918299694667
 - commits:
@@ -806,7 +817,7 @@
 - commits:
     - subject: logwatcher-21
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.6
 - date: 2022-05-03T06:52:20Z
 - commits:
@@ -819,7 +830,7 @@
 - commits:
     - subject: logwatcher-19
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.5
 - date: 2022-04-26T22:21:50Z
 - commits:
@@ -832,7 +843,7 @@
 - commits:
     - subject: xserver-15
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.4
 - date: 2022-04-14T19:14:34Z
 - commits:
@@ -845,7 +856,7 @@
 - commits:
     - subject: xserver-10
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.3
 - date: 2022-04-12T17:28:08Z
 - commits:
@@ -861,7 +872,7 @@
 - commits:
     - subject: Adding arch doc
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: c27ebeed0197322be4306d9d6b7a86c1c464f0c7
 - commits:
@@ -875,7 +886,7 @@
 - commits:
     - subject: crop logo
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: e8de1ea6a4c5918aee6dd3a1dbf63ef01c076aca
 - commits:
@@ -883,7 +894,7 @@
 - commits:
     - subject: test larger logo
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: 410c690774775d6cdb10c855888e060af0bfdf28
 - commits:
@@ -891,7 +902,7 @@
 - commits:
     - subject: Merge branch 'master' into docs-update
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: 27e3d6880a0477bac4e478370ab0661fe9f59556
 - commits:
@@ -899,7 +910,7 @@
 - commits:
     - subject: banner
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: dafc501d3fe5dab2c364a9f0c714a9b04a9fd5ac
 - commits:
@@ -908,7 +919,7 @@
     - subject: Merge branch 'docs-update' of https://github.com/balenablocks/blocks
         into docs-update
 - commits:
-    - ? body
+    - body: null
 - version: 0.0.2
 - date: 2022-04-08T13:36:46Z
 - commits:
@@ -924,7 +935,7 @@
 - commits:
     - subject: initial docs commit to see landr
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: e125441e47ae019bb7b10b92fd5f16820f667458
 - commits:
@@ -938,7 +949,7 @@
 - commits:
     - subject: fix highlights
 - commits:
-    - ? body
+    - body: null
 - commits:
     - hash: 289c21a504b0d8d04e869dee67af8f09a3a0eae3
 - commits:
@@ -952,4 +963,4 @@
 - commits:
     - subject: fix versionbot
 - commits:
-    - ? body
+    - body: null
